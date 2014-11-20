@@ -1,0 +1,117 @@
+.mceContentBody h1, .mceContentBody h2, .mceContentBody h3, .mceContentBody h4, .mceContentBody h5, .mceContentBody h6 {
+	font-size: 100%;
+	font-family: 'Helvetica Neue', Helvetica, sans-serif;
+    font-weight: normal;
+    color: #333;
+}
+.mceContentBody h1 {
+    font-size: 30px;
+    line-height: 36px;
+    margin-bottom: 15px;
+}
+.mceContentBody h2 {
+    font-size: 24px;
+    line-height: 36px;
+    margin-bottom: 15px;
+}
+.mceContentBody h3,
+.mceContentBody h4,
+.mceContentBody h5,
+.mceContentBody h6 {
+   line-height: 28px;
+    margin-bottom: 12px;
+}
+.mceContentBody h3 { font-size: 18px }
+.mceContentBody h4 { font-size: 16px }
+.mceContentBody h5 { font-size: 14px }
+.mceContentBody h6,
+.mceContentBody .small {
+    font-size: 13px;
+}
+
+.mceContentBody {
+    color: #666;
+    width: auto;	
+}
+
+.mceContentBody p {
+	margin-bottom: 15px ;
+    font-family: 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.mceContentBody blockquote{
+	border:none;
+	width:auto;
+	display: block;
+	float:none;
+	padding:0 25px;	
+	margin:25px 25px;
+	border-left:6px solid #efefef;
+	clear: both;
+}
+	.mceContentBody blockquote h4,
+	.mceContentBody blockquote p{
+		font-weight:700;
+		font-size:16px;
+		font-size:1.6rem;
+		line-height: 1.5em;
+		margin:8px 0;
+		font-family: 'Helvetica Neue', Helvetica, sans-serif;
+		color:#333;
+		width:100%;
+	}
+	.mceContentBody blockquote p{
+		font-weight:300;
+		font-size:13px;
+		font-size:1.3rem;
+		line-height: 1.2em;	
+	}
+
+.mceContentBody ul {
+	margin: 0 0 20px 0;
+}
+
+
+.mceContentBody ol {
+	 margin: 0 0 20px 0;
+}
+.mceContentBody ol li {
+	list-style-type: decimal;
+	background: none;
+	padding-left: 0px;
+	margin-bottom: 5px;
+	margin-left: 14px;
+}
+li{
+	
+    font-family: 'Helvetica Neue', Helvetica, sans-serif;	
+}
+
+
+p span.intro-text {
+    color: #999;
+    width: auto;
+    display: inline;
+    padding: 2px 3px;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 25px;
+    margin-bottom: 15px;
+    font-weight: 300;
+}
+
+hr {
+	margin: 20px 0 20px;
+    border: 0;
+    border-bottom: 1px solid #e6e6e6;
+    height: 1px;
+}
+
+img.alignleft{
+	margin:0 20px 20px 0;
+	float: left;	
+}
+img.alignright{
+	margin:0 0 20px 20px;
+	float: right;	
+}

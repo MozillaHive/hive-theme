@@ -1,0 +1,33 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{}
+
+#cnkt-options{}
+
+#cnkt-options .option{
+	border-top:1px solid #efefef;
+	padding:20px 0;
+	margin:10px 0;
+	overflow:hidden
+}
+#cnkt-options .option label{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-style:italic;
+	display:block;
+	margin:-2px 0 10px 2px;
+}
+
+#cnkt-options .option h3{
+	margin:0 0 10px;
+}
+	
+	#cnkt-options .option .left{
+		float:left;
+		width:20%;
+	}
+	#cnkt-options .option .right{
+		float:right;
+		width:78%;
+	}
+	
