@@ -13,8 +13,8 @@ The Hive theme requires the following plugins:
 * ShareThis <https://wordpress.org/plugins/share-this/>
 * WordPress SEO <https://wordpress.org/plugins/wordpress-seo/>
 * WordPress Importer <https://wordpress.org/plugins/wordpress-importer/>
-* Advanced Custom Fields Repeater <http://www.advancedcustomfields.com/add-ons/repeater-field/> *
-* Advanced Post Types Order <http://www.nsp-code.com/premium-plugins/wordpress-plugins/advanced-post-types-order/> *
+* Advanced Custom Fields Repeater&#42; <http://www.advancedcustomfields.com/add-ons/repeater-field/>
+* Advanced Post Types Order&#42; <http://www.nsp-code.com/premium-plugins/wordpress-plugins/advanced-post-types-order/>
 
 &#42; _These plugins are premium - if you're developing for a Hive site get in touch via <info@hivenyc.org> for a copy._
 
